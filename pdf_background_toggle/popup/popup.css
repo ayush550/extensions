@@ -1,0 +1,11 @@
+body {
+  min-width: 180px;
+  font-family: sans-serif;
+  background: #111;
+  color: #fff;
+  padding: 10px;
+}
+
+h3 {
+  margin-top: 0;
+}
