@@ -1,0 +1,15 @@
+/* Page background */
+.pdfViewer .page {
+  background: #000 !important;
+}
+
+/* Text layer */
+.textLayer span {
+  color: #fff !important;
+}
+
+/* UI chrome */
+#viewerContainer,
+#mainContainer {
+  background-color: #000 !important;
+}
